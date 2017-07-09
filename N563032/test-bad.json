@@ -1,0 +1,8 @@
+{
+    "products": [{
+                 "name": "product name",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20A",
+                 "price": "INVALID! STRING NOT INT",
+                 "color": "ff00ff"
+                 }]
+}

@@ -1,0 +1,96 @@
+{
+    "products": [{
+                 "name": "Product 1",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20B",
+                 "price": 23423,
+                 "color": "123456"
+                 },
+                 {
+                 "name": "Product 2",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20C",
+                 "price": 56533,
+                 "color": "ff00ff"
+                 },
+                 {
+                 "name": "Product 3",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20D",
+                 "price": 653456345,
+                 "color": "ff0000"
+                 },
+                 {
+                 "name": "Product 4",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20E",
+                 "price": 5653,
+                 "color": "3300ff"
+                 },
+                 {
+                 "name": "Product 5",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20F",
+                 "price": 34534,
+                 "color": "ff0033"
+                 },
+                 {
+                 "name": "Product 6",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20G",
+                 "price": 3453,
+                 "color": "ff3333"
+                 },
+                 {
+                 "name": "Product 7",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20H",
+                 "price": 234,
+                 "color": "331188"
+                 },
+                 {
+                 "name": "Product 8",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20I",
+                 "price": 6732,
+                 "color": "FF3343"
+                 },
+                 {
+                 "name": "Product 9",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20J",
+                 "price": 345224,
+                 "color": "FF3311"
+                 },
+                 {
+                 "name": "Product 10",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20K",
+                 "price": 621345,
+                 "color": "55316F"
+                 },
+                 {
+                 "name": "Product 11",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20L",
+                 "price": 234234,
+                 "color": "F33145"
+                 }
+                 ,
+                 {
+                 "name": "Product 12",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20M",
+                 "price": 32341,
+                 "color": "F3FF45"
+                 },
+                 {
+                 "name": "Product 13",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20N",
+                 "price": 6433,
+                 "color": "F3FF45"
+                 },
+                 {
+                 "name": "Product 14",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%200",
+                 "price": 3321,
+                 "color": "F31145"
+                 },
+                 {
+                 "name": "Product 15",
+                 "thumbnail": "https://via.placeholder.com/350/0061ff/75a9ff?text=FPO%20P",
+                 "price": 343,
+                 "color": "F33345"
+                 }
+                 
+                 
+                 ]
+}
