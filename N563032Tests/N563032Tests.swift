@@ -72,7 +72,7 @@ class N563032Tests: XCTestCase {
         }
     }
     
-    func testMissinProductJSOn() {
+    func testMissingProductJSOn() {
         
         do {
             try ProductLoader.load(json: "null", complete: { (products) in
